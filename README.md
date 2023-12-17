@@ -1,2 +1,1 @@
-# .github
-Every Way in DeFi
+# Every Way in DeFi
