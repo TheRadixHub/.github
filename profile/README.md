@@ -1,6 +1,6 @@
 # We Take you to the new DeFi era
 
-<a href="https://bridge-route-x.gitbook.io/project-overview/"><img title="Whitepaper" height="40" width="40" src="https://app.gitbook.com/public/images/icon-512.png" color="white" /></a>
+<a href="https://bridge-route-x.gitbook.io/project-overview/"><img title="Whitepaper" height="40" width="40" src="https://avatars.githubusercontent.com/u/7111340?s=200&v=4" /></a>
 
 
 <!--
