@@ -1,4 +1,4 @@
-# We Take you to the new DeFi era
+# Making the new DeFi era acessible!
 
 <a href="https://bridge-route-x.gitbook.io/project-overview/"><img title="Whitepaper" height="40" width="40" src="https://avatars.githubusercontent.com/u/7111340?s=200&v=4" /></a>
 
@@ -13,3 +13,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+![Alt](https://repobeats.axiom.co/api/embed/0c54d34ad89462206655cffb2eb42d8411ae7d6d.svg "Repobeats analytics image")
